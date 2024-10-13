@@ -1,0 +1,76 @@
+﻿  chess.cpp
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\Connector.hpp(44,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'chess.cpp')
+  
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\Connector.hpp(58,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'chess.cpp')
+  
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244: 'argument': conversion from 'T' to '_Elem', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:         and
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:             _Elem=char
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(58,24): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244: 'argument': conversion from 'T' to '_Elem', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:         and
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:             _Elem=char
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(59,28): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,30): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,30): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,30): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,30): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,20): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,20): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,20): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(68,20): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(98,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(98,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:             T=int
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:         and
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,53): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:             T=int
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:         and
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(213,46): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,64): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,64): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,64): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,64): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,54): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,54): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,54): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(225,54): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,62): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,62): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,62): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,62): warning C4244:         ]
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,38): warning C4244:         with
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,38): warning C4244:         [
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,38): warning C4244:             T=float
+C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\ChessProject\chess.cpp(226,38): warning C4244:         ]
+  ChessProject.vcxproj -> C:\Users\D3243705\OneDrive - Teesside University\More c++\chess\ChessProject\x64\Debug\ChessProject.exe
